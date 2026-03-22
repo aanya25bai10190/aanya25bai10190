@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 😊 
 
-<!--
-**aanya25bai10190/aanya25bai10190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏻‍🎓 About Me
+- Name: Aanya Yadav
+- Program: B.Tech
+- Branch: Computer Science Engineering (Artificial Intelligence and Machine Learning)
+- Year: 1st Year
 
-Here are some ideas to get you started:
+## 🚀 My Goal
+I have been intrigued by machine leaning and neural networks since grade 11 and am passionate about leaning deeper into AI models and generating AI based solutions for the morden world problems. I am passionate about leaning about new technologies and improving my skills in programming and development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 What I want to learn
+I hope to learn more about python programming, neuran networks and how to train AI models and use them to solve morder world problems.
+
+## 🛠️ Skills
+- Efficient in writing codes in Python, Java and CPP.
+- Problem Solving
+- Communication
+- Video Editting
+- Photography
