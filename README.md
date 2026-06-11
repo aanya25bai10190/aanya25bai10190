@@ -18,7 +18,7 @@
   <tr>
     <td width="55%" valign="top">
       <h3>🔍 Current Strategy</h3>
-      <p>I focus on translating complex data patterns into accessible web interfaces. By combining predictive modeling with robust software foundations, I build applications that are structurally sound and highly interactive.</p>
+      <p>I focus on translating complex data patterns into accessible web interfaces. By combining predictive modeling with robust software foundations, I build applications that are structurally sound, mathematically verified, and highly interactive.</p>
     </td>
     <td width="45%" valign="top">
       <h3>🛠️ The Arsenal</h3>
@@ -51,21 +51,22 @@
       <p>
         <img src="https://img.shields.io/badge/Engine-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Brain-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🩸 CycleSync — Menstrual Cycle Predictor</h4>
-      <p>A smart personal utility application designed to map and predict menstrual cycle phases, tracking patterns for actionable health insights.</p>
+      <h4>🩸 CycleSync — Period Tracking System</h4>
+      <p>A modular, service-oriented tracking system built with in-memory data structures, featuring automated cycle length estimation and data validation subroutines.</p>
       <p>
         <img src="https://img.shields.io/badge/Logic-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+        <img src="https://img.shields.io/badge/Core-DateTime-grey?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h4>🌐 Language Translator App</h4>
-      <p>A functional linguistic utility application engineered to bridge communication gaps seamlessly, offering high-fidelity cross-language text translation via an interactive interface.</p>
+      <p>A functional linguistic utility application engineered to bridge communication gaps seamlessly, offering high-fidelity translation via the Deep Translator API.</p>
       <p>
         <img src="https://img.shields.io/badge/Logic-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
