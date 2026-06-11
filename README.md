@@ -37,29 +37,37 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>❤️ Cardiovascular Disease Predictor</h4>
-      <p>A machine learning architecture designed to analyze complex patient health metrics and calculate cardiovascular risks with high predictive precision.</p>
+      <h4>🦅 AI Surveillance System</h4>
+      <p>An intelligent computer vision pipeline engineered for real-time video stream parsing, automated threat/object detection, and instantaneous anomaly reporting layers.</p>
       <p>
-        <img src="https://img.shields.io/badge/Engine-Python-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/Brain-Scikit--learn-F7931E?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Logic-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🩸 CycleSync — Menstrual Cycle Predictor</h4>
-      <p>A smart personal utility application designed to map and predict menstrual cycle phases, tracking patterns for actionable health insights.</p>
+      <h4>❤️ Cardiovascular Disease Predictor</h4>
+      <p>A machine learning architecture designed to analyze complex patient health metrics and calculate cardiovascular risks with high predictive precision.</p>
       <p>
-        <img src="https://img.shields.io/badge/Logic-Python-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Engine-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Brain-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
+      <h4>🩸 CycleSync — Menstrual Cycle Predictor</h4>
+      <p>A smart personal utility application designed to map and predict menstrual cycle phases, tracking patterns for actionable health insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Logic-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h4>🌐 Language Translator App</h4>
       <p>A functional linguistic utility application engineered to bridge communication gaps seamlessly, offering high-fidelity cross-language text translation via an interactive interface.</p>
       <p>
-        <img src="https://img.shields.io/badge/Logic-Python-3776AB?style=flat-square" />
-        <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Logic-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
       </p>
     </td>
   </tr>
