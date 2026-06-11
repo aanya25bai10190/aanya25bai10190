@@ -23,9 +23,9 @@
     <td width="45%" valign="top">
       <h3>🛠️ The Arsenal</h3>
       <h4>Primary Tactics (AI & Data)</h4>
-      <img src="https://skillicons.dev/icons?i=py,sklearn,streamlit" alt="Data Tech" />
+      <img src="https://skillicons.dev/icons?i=py,sklearn,streamlit,opencv" alt="Data Tech" />
       <h4>Supporting Pieces (Software & Web)</h4>
-      <img src="https://skillicons.dev/icons?i=java,html,css,git" alt="Core Tech" />
+      <img src="https://skillicons.dev/icons?i=java,html,css,git,github" alt="Core Tech" />
     </td>
   </tr>
 </table>
@@ -38,8 +38,9 @@
   <tr>
     <td width="50%" valign="top">
       <h4>🦅 AI Surveillance System</h4>
-      <p>An intelligent computer vision pipeline engineered for real-time video stream parsing, automated threat/object detection, and instantaneous anomaly reporting layers.</p>
+      <p>A real-time computer vision pipeline utilizing YOLOv8 and OpenCV for live video parsing, multi-object tracking with unique IDs, and crowd-density alert systems.</p>
       <p>
+        <img src="https://img.shields.io/badge/Model-YOLOv8-00FF66?style=flat-square&logo=ultralytics&logoColor=black" />
         <img src="https://img.shields.io/badge/Vision-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <img src="https://img.shields.io/badge/Logic-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
