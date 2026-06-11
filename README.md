@@ -32,24 +32,34 @@
 
 ---
 
-## 🏆 Featured Pieces (The Endgame)
+## 🏆 Featured Pieces (The Strategy Board)
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h4>❤️ Cardiovascular Disease Predictor</h4>
-      <p>A machine learning architecture designed to analyze patient metrics and predict cardiovascular risks with high precision.</p>
+      <p>A machine learning architecture designed to analyze complex patient health metrics and calculate cardiovascular risks with high predictive precision.</p>
       <p>
         <img src="https://img.shields.io/badge/Engine-Python-3776AB?style=flat-square" />
         <img src="https://img.shields.io/badge/Brain-Scikit--learn-F7931E?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🌐 Language Translator App</h4>
-      <p>A clean, functional language processing application built to bridge communication gaps seamlessly across web views.</p>
+      <h4>🩸 CycleSync — Menstrual Cycle Predictor</h4>
+      <p>A smart personal utility application designed to map and predict menstrual cycle phases, tracking patterns for actionable health insights.</p>
       <p>
-        <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square" />
         <img src="https://img.shields.io/badge/Logic-Python-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🌐 Language Translator App</h4>
+      <p>A functional linguistic utility application engineered to bridge communication gaps seamlessly, offering high-fidelity cross-language text translation via an interactive interface.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Logic-Python-3776AB?style=flat-square" />
+        <img src="https://img.shields.io/badge/UI-Streamlit-FF4B4B?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -60,12 +70,12 @@
 ## 📊 Telemetry & Game Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=39D353&icon_color=39D353&text_color=8b949e" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=39D353&text_color=8b949e" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aanya25bai10190&show_icons=true&theme=transparent&hide_border=true&title_color=39D353&icon_color=39D353&text_color=8b949e" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanya25bai10190&layout=compact&theme=transparent&hide_border=true&title_color=39D353&text_color=8b949e" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&stroke=39D353&fire=39D353&ring=39D353&currStreakLabel=8b949e" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aanya25bai10190&theme=transparent&hide_border=true&stroke=39D353&fire=39D353&ring=39D353&currStreakLabel=8b949e" alt="Streak Stats" />
 </p>
 
 <p align="center">
