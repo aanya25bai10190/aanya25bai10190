@@ -16,13 +16,16 @@
 
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3>🔍 Current Strategy</h3>
-      <p>I focus on translating complex data patterns into accessible web interfaces. By combining predictive modeling with interactive frameworks, I build software that doesn't just calculate—it communicates.</p>
+      <p>I focus on translating complex data patterns into accessible web interfaces. By combining predictive modeling with robust software foundations, I build applications that are structurally sound and highly interactive.</p>
     </td>
-    <td width="40%" valign="top">
+    <td width="45%" valign="top">
       <h3>🛠️ The Arsenal</h3>
-      <img src="https://skillicons.dev/icons?i=py,sklearn,streamlit,git,github" alt="My Tech Stack" />
+      <h4>Primary Tactics (AI & Data)</h4>
+      <img src="https://skillicons.dev/icons?i=py,sklearn,streamlit" alt="Data Tech" />
+      <h4>Supporting Pieces (Software & Web)</h4>
+      <img src="https://skillicons.dev/icons?i=java,html,css,git" alt="Core Tech" />
     </td>
   </tr>
 </table>
