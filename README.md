@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/Strategy_Network-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Direct_Line-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/Connect with me-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <br/>
